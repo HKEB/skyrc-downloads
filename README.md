@@ -6,165 +6,165 @@ Base url: https://www.skyrc.com/files/
 
 Take the number below and copy it at the end. E.g.. https://www.skyrc.com/files/10 which is 1200W_Power_Supply_Instruction_Manual.pdf
 
-1\. D100 V2_Instruction_Manual_EN_V1.50.pdf
-4. S60_Instruction_Manual_(EN).pdf
-5. Charger_Master_V2.02.rar
-6. e660_Instruction_Manual.pdf
-7. SuperRiderSR5Manual.pdf
-10. 1200W_Power_Supply_Instruction_Manual.pdf
-13. D250_Instruction_Manual_V1.0.pdf
-15. ChargeMaster3.04_20171211.rar
-16. D400_SK_V1.04_Upgrade_Package.rar
-17. MC3000_Firmware_Update_V1.12.rar
-18. MC3000_Monitor_V1.03_1080p.rar
-19. MC3000_Firmware_Update_V1.13.rar
-20. MC3000_Monitor_V1.04_720p.rar
-21. MC3000_Charger_Manual_(English_V1.13).pdf
-22. MC3000_Charger_Manual_(German_V1.13).pdf
-23. Cheat_Sheet_for_the_SkyRC_MC3000_Charger_English_Firmware_V1.13.pdf
-24. Cheat_Sheet_for_the_SkyRC_MC3000_Charger_German_Firmware_V1.13.pdf
-25. Cheat_Sheet_for_the_SkyRC_MC3000_Charger_Spanish_Firmware_V1.13.pdf
-26. IMAX_B6_Manual.pdf
-27. iMAX B6AC V2_Instruction_Manual_EN_V3.10.pdf
-28. Charger Master V1.02_0901.rar
-29. ChargeMaster2.03_20171205.rar
-32. Toro TS120A ESC Manual.pdf
-33. SKYRC USB Link V2.08.rar
-34. 1-5_EX_200A_ESC_Manual.pdf
-35. SKYRC_USB _Link_V1.08.rar
-36. SKYRC_USB_Link_V2.07.rar
-37. 7504-0423-06--TS50%E8%AF%B4%E6%98%8E%E4%B9%A6--221024.pdf
-38. FPV_Monitor_Manual.pdf
-39. 800TVL_FPV_Camera_Manual.pdf
-40. SIGNAL_LOSS_ALARM_Manual.pdf
-41. 600TVL_FPV_Camera_Manual.pdf
-42. FPV_SOKAR_Manual.pdf
-43. sparrow_ Manual.pdf
-44. SkyRC NC2600 V1.94.apk
-45. Leopard_60A_ESC_V2_Instruction_Manual.pdf
-47. Cheetah_10_60A_Sensored_Combo_Manual.pdf
-48. LiPoPal Instruction Manual.pdf
-49. Optical_Tachometer_Manual.pdf
-50. switch_manual.pdf
-51. Multi Function Power Hub Manual.pdf
-52. FX180_FX210_Manual.pdf
-53. T6755_Charger_Manual.pdf
-54. Charger Master V3.02_0901.rar
-55. D200 Charger Manual.pdf
-56. 4P3_Charger_Manual_(English_V1.1).pdf
-57. Q200_V1.09_UPgrade.rar
-58. ChargeMaster_Q200_20171205.rar
-59. Q200-Skyrc(v0.94-7.29).apk
-60. Q200_Instruction_Manual_V1.6.pdf
-61. Infrared_Thermometer_Manual.pdf
-62. GC301Gyro_Manual.pdf
-64. PC_520_Charger_Instruction_Manual.pdf.pdf
-65. Corner_Weight_System_Manual.pdf
-66. GPS_Speed_Meter_Instruction_Manual.pdf
-67. GpsLogger1.31.rar
-69. TS160_ESC_Manual.pdf
-70. TS150A_ESC_Manual.pdf
-71. Motor_Analyzer_Manual.pdf
-72. RacingStar_Tire_Warmmer_Manual.pdf
-73. Enginer Heater Manual.pdf
-74. Quattro Micro Battery Charger Manual.pdf
-76. TX58200_Video_Transmitter_Manual .pdf
+1\. D100 V2_Instruction_Manual_EN_V1.50.pdf  
+4. S60_Instruction_Manual_(EN).pdf  
+5. Charger_Master_V2.02.rar  
+6. e660_Instruction_Manual.pdf   
+7. SuperRiderSR5Manual.pdf  
+10. 1200W_Power_Supply_Instruction_Manual.pdf  
+13. D250_Instruction_Manual_V1.0.pdf  
+15. ChargeMaster3.04_20171211.rar  
+16. D400_SK_V1.04_Upgrade_Package.rar  
+17. MC3000_Firmware_Update_V1.12.rar  
+18. MC3000_Monitor_V1.03_1080p.rar  
+19. MC3000_Firmware_Update_V1.13.rar  
+20. MC3000_Monitor_V1.04_720p.rar  
+21. MC3000_Charger_Manual_(English_V1.13).pdf  
+22. MC3000_Charger_Manual_(German_V1.13).pdf  
+23. Cheat_Sheet_for_the_SkyRC_MC3000_Charger_English_Firmware_V1.13.pdf  
+24. Cheat_Sheet_for_the_SkyRC_MC3000_Charger_German_Firmware_V1.13.pdf  
+25. Cheat_Sheet_for_the_SkyRC_MC3000_Charger_Spanish_Firmware_V1.13.pdf  
+26. IMAX_B6_Manual.pdf  
+27. iMAX B6AC V2_Instruction_Manual_EN_V3.10.pdf  
+28. Charger Master V1.02_0901.rar  
+29. ChargeMaster2.03_20171205.rar  
+32. Toro TS120A ESC Manual.pdf  
+33. SKYRC USB Link V2.08.rar  
+34. 1-5_EX_200A_ESC_Manual.pdf  
+35. SKYRC_USB _Link_V1.08.rar  
+36. SKYRC_USB_Link_V2.07.rar  
+37. 7504-0423-06--TS50%E8%AF%B4%E6%98%8E%E4%B9%A6--221024.pdf  
+38. FPV_Monitor_Manual.pdf  
+39. 800TVL_FPV_Camera_Manual.pdf  
+40. SIGNAL_LOSS_ALARM_Manual.pdf  
+41. 600TVL_FPV_Camera_Manual.pdf  
+42. FPV_SOKAR_Manual.pdf  
+43. sparrow_ Manual.pdf  
+44. SkyRC NC2600 V1.94.apk  
+45. Leopard_60A_ESC_V2_Instruction_Manual.pdf  
+47. Cheetah_10_60A_Sensored_Combo_Manual.pdf  
+48. LiPoPal Instruction Manual.pdf    
+49. Optical_Tachometer_Manual.pdf  
+50. switch_manual.pdf  
+51. Multi Function Power Hub Manual.pdf  
+52. FX180_FX210_Manual.pdf  
+53. T6755_Charger_Manual.pdf  
+54. Charger Master V3.02_0901.rar  
+55. D200 Charger Manual.pdf  
+56. 4P3_Charger_Manual_(English_V1.1).pdf  
+57. Q200_V1.09_UPgrade.rar  
+58. ChargeMaster_Q200_20171205.rar  
+59. Q200-Skyrc(v0.94-7.29).apk  
+60. Q200_Instruction_Manual_V1.6.pdf  
+61. Infrared_Thermometer_Manual.pdf  
+62. GC301Gyro_Manual.pdf  
+64. PC_520_Charger_Instruction_Manual.pdf.pdf  
+65. Corner_Weight_System_Manual.pdf  
+66. GPS_Speed_Meter_Instruction_Manual.pdf  
+67. GpsLogger1.31.rar  
+69. TS160_ESC_Manual.pdf  
+70. TS150A_ESC_Manual.pdf  
+71. Motor_Analyzer_Manual.pdf  
+72. RacingStar_Tire_Warmmer_Manual.pdf  
+73. Enginer Heater Manual.pdf  
+74. Quattro Micro Battery Charger Manual.pdf  
+76. TX58200_Video_Transmitter_Manual .pdf  
 77. TX58025_Video_Transmitter_Manual .pdf
-78. HD_FPV_GOGGLE_Manual .pdf
-79. PC1080C%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf
-80. PC1260%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf
-81. BD200_Instruction_Manual_V1.20.pdf
-82. SKYRC_PC1260_Manual_cn.pdf
-83. 241010-PC1080 manual_CN.pdf.pdf
-84. BD200_PC_Software_20180201.rar
-85. Wi-Fi MODULE INSTRUCTION MANUA .pdf
-86. SKYRC_G630.pdf
-87. D100 V2C%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf
-88. SKYRC_B6nano_Instruction_Manual_Spanish.pdf
-89. MC3000_3.71.apk
-90. SKYRC_PC1850.pdf
-91. B6 nano Quick Start Guide.pdf
-92. 7504-0961-04 V1.15_MC3000%E8%AF%B4%E6%98%8E%E4%B9%A6 DE German-.pdf
-93. MC3000_Firmware_Update__V1.25.zip
-94. 7504-0680-09--Instruction Manual V1.4.pdf
-95. eFUEL 380W_Instruction_Manual_EN_V3.0.pdf
-97. SkyRC NC2600 V1.94.apk
-98. SkyCharger_v1.38.apk
-99. BD200_PC_SoftwareV1.01.rar
-100. BD200_Upgrade _FirmwareV1.04 (WIN10).rar
-101. Q200_V1.11_Upgrade.rar
-102. chargemaster_V2.04.rar
-103. ChargeMaster_Q200_V2.6_180830.rar
-104. SkyCharger_v1.42_2018-07-26_14-25.apk
-105. 1400W Charger Manual.pdf
-106. ChargerLink.apk
-107. D400_Firmware_Update_V1.06.rar
-108. ESC_LINK_V1.2(Android).apk
-109. D250_Firmware_Update_V1.03.rar
-110. 241010-PC1080 manual%E8%8B%B1%E6%96%87--V4rev.pdf
-111. B6AC_V2_Firmware_Update_V1.13.zip
-112. B6mini_Firmware_Update_V1.20.zip
-114. Ts150Pro_Instruction_Manual_(EN).pdf
-116. B6nanoDuo_Instruction_Manual_(EN).pdf
-117. SKYRC_USB_Link_V2.10.zip
-119. E4Q Instruction Manual V1.0.pdf
-120. PC2400_Instruction_Manual.pdf
-123. GNSSLoggerV1.49.rar
-124. GSM-015_Instruction_Manual_EN_V1.3.pdf
-125. GNSSLogger_V1.60.zip
-126. PC1300_Instruction_Manual.pdf
-127. PC2600_Instruction_Manual_V1.0.pdf
-128. Q200_Firmware_Update_V1.12.rar
-129. Charger Master V1.51.zip
-130. Charge Master V2.05.rar
-133. G630_Instruction_Manual.pdf
-134. G630_Instruction_Manual.pdf
-135. G630_Instruction_Manual.pdf
-136. PROGBOX_Instruction_Manual_EN_V1.0.pdf
-137. B6 mini_Instruction_Manual_EN_V3.10.pdf
-138. GC401Gyro_Manual_V1.0.pdf
-139. WiFiModule_Manual_V1.0_cn.pdf
-140. B6AC_V2_Instruction_Manual_Spanish.pdf
-141. GC401Gyro_Manual_V1.0_cn.pdf
-142. e430_Instruction_Manual_EN_V5.0.pdf
-143. Corner_Weight_System_Instruction_Manual_V1.0.cn.pdf
-145. SkyCharger_2.41.apk
-156. Motor_Analyzer_Instruction_Manual_V1.2.pdf
-157. PC1260_Instruction_Manual_EN_V1.0.pdf
-158. TireWarmer_Instruction_Manual_V1.1_en.pdf
-159. TireSander_Instruction_Manual_V1.1.pdf
-160. DiffAnalyzer_Instruction_Manual_V1.0.pdf
-161. T100_Instruction_Manual_EN_V1.30.pdf
-162. PC2100_Instruction_Manual_CN_V1.1..pdf
-163. NC2600_Instruction_Manual_EN_V1.0.pdf
-164. G1220_Instruction_Manual_CN_V1.0.pdf
-165. B6lite_Instruction_Manual_EN_V1.0.pdf
-168. e3_Instruction_Manual_EN_V2.0.pdf
-170. Power_Supply_540W_Instruction_Manual_V1.4.pdf
-172. E4Q_Manual_V1.0_cn.pdf
-173. GSM-015_Instruction_Manual_CN_V1.3.pdf
-174. TireSander_Instruction_Manual_V1.2.pdf
-176. LiPoPal_Manual_V1.3_cn.pdf
-177. EngineHeater_Manual_V1.0_cn.pdf
-178. 7504-0423-06--TS50%E8%AF%B4%E6%98%8E%E4%B9%A6--221024.pdf
-179. TS120A_Instruction_Manual_CN_V1.5.pdf
-180. TS160_Manual_V2.0_cn.pdf
-181. NC2600_Manual_V1.0_cn.pdf
-182. TORO_BEAST_V2_Instruction_Manual_CN_V1.0.pdf
-183. TORO_BEAST_V2_Instruction_Manual_EN_V1.0.pdf
-184. NC1500_Instruction_Manual_EN_V2.0.pdf
-185. BD250_Instruction_Manual_EN_V1.0.pdf
-186. D260_Instruction_Manual_EN_V1.1.pdf
-187. DisCharger_V1.10.zip
-188. Cheetah_10_60A_Sensored_Combo_Instruction_Manual_CN_V1.4.pdf
-189. EFUEL_1200W_Instruction_Manual_CN_V1.2.pdf
-190. D260_Instruction_Manual_cn_V1.0.pdf
-191. e450_Instruction_Manual_EN_V7.0.pdf
-192. Leopard_60A_ESC_V2_Instruction_Manual_cn_V1.0.pdf
-193. B6_V2_Instruction_Manual_CN_V1.2.pdf.pdf
-194. B6_V2_Instruction_Manual_CN_V1.2.pdf
-195. G1220_V2_Instruction_Manual_ZH_V1.0.pdf
-196. GSM-020_Instruction_Manual_EN_V1.5.pdf
+78. HD_FPV_GOGGLE_Manual .pdf  
+79. PC1080C%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf  
+80. PC1260%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf  
+81. BD200_Instruction_Manual_V1.20.pdf  
+82. SKYRC_PC1260_Manual_cn.pdf  
+83. 241010-PC1080 manual_CN.pdf.pdf   
+84. BD200_PC_Software_20180201.rar  
+85. Wi-Fi MODULE INSTRUCTION MANUA .pdf  
+86. SKYRC_G630.pdf  
+87. D100 V2C%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf  
+88. SKYRC_B6nano_Instruction_Manual_Spanish.pdf   
+89. MC3000_3.71.apk  
+90. SKYRC_PC1850.pdf  
+91. B6 nano Quick Start Guide.pdf  
+92. 7504-0961-04 V1.15_MC3000%E8%AF%B4%E6%98%8E%E4%B9%A6 DE German-.pdf  
+93. MC3000_Firmware_Update__V1.25.zip  
+94. 7504-0680-09--Instruction Manual V1.4.pdf  
+95. eFUEL 380W_Instruction_Manual_EN_V3.0.pdf  
+97. SkyRC NC2600 V1.94.apk  
+98. SkyCharger_v1.38.apk  
+99. BD200_PC_SoftwareV1.01.rar  
+100. BD200_Upgrade _FirmwareV1.04 (WIN10).rar  
+101. Q200_V1.11_Upgrade.rar  
+102. chargemaster_V2.04.rar  
+103. ChargeMaster_Q200_V2.6_180830.rar  
+104. SkyCharger_v1.42_2018-07-26_14-25.apk  
+105. 1400W Charger Manual.pdf  
+106. ChargerLink.apk  
+107. D400_Firmware_Update_V1.06.rar  
+108. ESC_LINK_V1.2(Android).apk  
+109. D250_Firmware_Update_V1.03.rar  
+110. 241010-PC1080 manual%E8%8B%B1%E6%96%87--V4rev.pdf  
+111. B6AC_V2_Firmware_Update_V1.13.zip  
+112. B6mini_Firmware_Update_V1.20.zip  
+114. Ts150Pro_Instruction_Manual_(EN).pdf  
+116. B6nanoDuo_Instruction_Manual_(EN).pdf  
+117. SKYRC_USB_Link_V2.10.zip  
+119. E4Q Instruction Manual V1.0.pdf  
+120. PC2400_Instruction_Manual.pdf  
+123. GNSSLoggerV1.49.rar  
+124. GSM-015_Instruction_Manual_EN_V1.3.pdf  
+125. GNSSLogger_V1.60.zip  
+126. PC1300_Instruction_Manual.pdf  
+127. PC2600_Instruction_Manual_V1.0.pdf  
+128. Q200_Firmware_Update_V1.12.rar  
+129. Charger Master V1.51.zip  
+130. Charge Master V2.05.rar  
+133. G630_Instruction_Manual.pdf  
+134. G630_Instruction_Manual.pdf  
+135. G630_Instruction_Manual.pdf  
+136. PROGBOX_Instruction_Manual_EN_V1.0.pdf  
+137. B6 mini_Instruction_Manual_EN_V3.10.pdf  
+138. GC401Gyro_Manual_V1.0.pdf  
+139. WiFiModule_Manual_V1.0_cn.pdf  
+140. B6AC_V2_Instruction_Manual_Spanish.pdf  
+141. GC401Gyro_Manual_V1.0_cn.pdf  
+142. e430_Instruction_Manual_EN_V5.0.pdf  
+143. Corner_Weight_System_Instruction_Manual_V1.0.cn.pdf  
+145. SkyCharger_2.41.apk  
+156. Motor_Analyzer_Instruction_Manual_V1.2.pdf  
+157. PC1260_Instruction_Manual_EN_V1.0.pdf  
+158. TireWarmer_Instruction_Manual_V1.1_en.pdf  
+159. TireSander_Instruction_Manual_V1.1.pdf  
+160. DiffAnalyzer_Instruction_Manual_V1.0.pdf  
+161. T100_Instruction_Manual_EN_V1.30.pdf  
+162. PC2100_Instruction_Manual_CN_V1.1..pdf  
+163. NC2600_Instruction_Manual_EN_V1.0.pdf  
+164. G1220_Instruction_Manual_CN_V1.0.pdf   
+165. B6lite_Instruction_Manual_EN_V1.0.pdf  
+168. e3_Instruction_Manual_EN_V2.0.pdf  
+170. Power_Supply_540W_Instruction_Manual_V1.4.pdf  
+172. E4Q_Manual_V1.0_cn.pdf  
+173. GSM-015_Instruction_Manual_CN_V1.3.pdf  
+174. TireSander_Instruction_Manual_V1.2.pdf  
+176. LiPoPal_Manual_V1.3_cn.pdf  
+177. EngineHeater_Manual_V1.0_cn.pdf  
+178. 7504-0423-06--TS50%E8%AF%B4%E6%98%8E%E4%B9%A6--221024.pdf  
+179. TS120A_Instruction_Manual_CN_V1.5.pdf  
+180. TS160_Manual_V2.0_cn.pdf  
+181. NC2600_Manual_V1.0_cn.pdf  
+182. TORO_BEAST_V2_Instruction_Manual_CN_V1.0.pdf  
+183. TORO_BEAST_V2_Instruction_Manual_EN_V1.0.pdf  
+184. NC1500_Instruction_Manual_EN_V2.0.pdf  
+185. BD250_Instruction_Manual_EN_V1.0.pdf  
+186. D260_Instruction_Manual_EN_V1.1.pdf  
+187. DisCharger_V1.10.zip  
+188. Cheetah_10_60A_Sensored_Combo_Instruction_Manual_CN_V1.4.pdf  
+189. EFUEL_1200W_Instruction_Manual_CN_V1.2.pdf  
+190. D260_Instruction_Manual_cn_V1.0.pdf  
+191. e450_Instruction_Manual_EN_V7.0.pdf  
+192. Leopard_60A_ESC_V2_Instruction_Manual_cn_V1.0.pdf  
+193. B6_V2_Instruction_Manual_CN_V1.2.pdf.pdf  
+194. B6_V2_Instruction_Manual_CN_V1.2.pdf  
+195. G1220_V2_Instruction_Manual_ZH_V1.0.pdf  
+196. GSM-020_Instruction_Manual_EN_V1.5.pdf  
 197. B6NanoDuo_Instruction_Manual_zh_V1.0.pdf
 198. B6lite_Instruction_Manual_zh_V1.0.pdf
 199. B6nano_Instruction_Manual_zh_V1.0.pdf
